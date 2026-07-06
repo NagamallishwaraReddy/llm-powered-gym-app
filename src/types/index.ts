@@ -14,7 +14,7 @@ export interface UserProfile {
   preferredSplit: "full_body" | "upper_lower" | "ppl" | "custom";
   updatedAt: string;
 }
-xport interface PlanOverview {
+export interface PlanOverview {
   goal: string;
   frequency: string;
   split: string;
